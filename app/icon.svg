@@ -1,0 +1,14 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!--
+    FAVICON PLACEHOLDER.
+    Next.js automatically uses app/icon.svg as the favicon.
+    Replace this file with your exact logomark (SVG, or app/icon.png / app/favicon.ico).
+  -->
+  <rect width="64" height="64" rx="14" fill="#0D0C0A"/>
+  <g transform="translate(17 13) scale(0.3)">
+    <path fill-rule="evenodd" clip-rule="evenodd" fill="#F2C879" d="M0 0H52C70 0 80 11 80 28V92C80 109 70 120 52 120H0V0ZM26 26H52V94H26V26Z"/>
+    <rect x="66" y="0" width="34" height="120" fill="#FFFFFF"/>
+    <rect x="36" y="48" width="40" height="24" fill="#FFFFFF"/>
+    <rect x="62" y="0" width="4" height="120" fill="#0D0C0A"/>
+  </g>
+</svg>
